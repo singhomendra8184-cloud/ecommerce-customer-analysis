@@ -12,3 +12,6 @@ To identify high-value customers and derive actionable business insights using d
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Skill Level Demonstrated
+This project demonstrates intermediate data analytics skills, including schema inspection, debugging, metric-driven analysis, customer segmentation using percentiles, and business-focused interpretation of results.
